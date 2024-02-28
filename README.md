@@ -16,6 +16,6 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 <p align="center">
 
-[![built with love]
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)]
 
 </p>
